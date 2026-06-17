@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.httr-oauth
+.DS_Store
+Thumbs.db
+*.html
+*.pdf
+*.docx
